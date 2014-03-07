@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/Users/pshearer/Dropbox/CodeDrop/BlogSlideOut/.metadata/.plugins/org.eclipse.jdt.core
+2239422707.index
